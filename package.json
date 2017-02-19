@@ -1,6 +1,6 @@
 {
-  "name": "rc-upload-s3",
-  "version": "0.1.1",
+  "name": "ryfma-rc-upload-s3",
+  "version": "0.1.2",
   "description": "Wrapper for rc-upload with support for AWS S3 based uploading",
   "files": [
     "lib"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:edgji/rc-upload-s3.git"
+    "url": "git@github.com:appigram/rc-upload-s3.git"
   },
   "keywords": [
     "react",
